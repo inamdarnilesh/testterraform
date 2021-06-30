@@ -1,7 +1,7 @@
 variable "subscription_id" {
   type        = string
   description = "Subscription ID"
-  default     = "46794ed6-e73a-465d-8d00-b943ffadfdf4"
+  default     = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
 
 variable "client_id" {
@@ -17,7 +17,7 @@ variable "client_secret" {
 variable "tenant_id" {
   type        = string
   description = "Tenant ID of AZ Cloud"
-  default     = "4d6c911e-020b-41ae-9330-485a59b50828"
+  default     = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
 
 variable "rg_name" {
